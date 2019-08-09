@@ -9,6 +9,7 @@
         <module name="client1" />
         <module name="feignconsumer" />
         <module name="cloud" />
+        <module name="gateway" />
         <module name="server" />
         <module name="actuator" />
         <module name="consumer" />
@@ -21,6 +22,7 @@
       <module name="client1" options="" />
       <module name="consumer" options="" />
       <module name="feignconsumer" options="" />
+      <module name="gateway" options="" />
       <module name="server" options="" />
     </option>
   </component>
