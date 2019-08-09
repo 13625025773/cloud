@@ -9,12 +9,14 @@
         <module name="server" />
         <module name="actuator" />
         <module name="cloud" />
+        <module name="client1" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="actuator" options="" />
+      <module name="client1" options="" />
       <module name="server" options="" />
     </option>
   </component>
